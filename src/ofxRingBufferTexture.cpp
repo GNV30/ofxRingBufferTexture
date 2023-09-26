@@ -7,7 +7,10 @@
  * or send a letter to
  * Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
  */
-
+#Кол-во разработчиков – 1
+#Кол-во веток – 1
+#Регулярность использования – 7
+#Кол-во копирований – 1
 #include "ofxRingBufferTexture.h"
 
 //--------------------------------------------------------------
